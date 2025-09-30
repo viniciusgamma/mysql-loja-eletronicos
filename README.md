@@ -42,7 +42,7 @@ O objetivo é demonstrar a criação do banco, tabelas, inserção de dados de e
 
 ---
 
-## 📈 Possíveis melhorias
+## Possíveis melhorias
 
 - Adicionar mais tabelas e relacionamentos para estoque, fornecedores e categorias de produtos.  
 - Criar procedimentos armazenados e triggers para automatizar atualizações de estoque.  
@@ -50,7 +50,7 @@ O objetivo é demonstrar a criação do banco, tabelas, inserção de dados de e
 
 ---
 
-## 🔗 Contato
+## Contato
 
 Feito por Vinicius Gama de Oliveira 
 [GitHub](https://github.com/viniciusgamma)
